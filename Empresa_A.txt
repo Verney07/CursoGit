@@ -1,1 +1,3 @@
 D:\PYTHON\Curso de GIT y GITHUB\Proyecto web empresa A
+
+"Se realizará un nuevo commit para verificar los cambios".
