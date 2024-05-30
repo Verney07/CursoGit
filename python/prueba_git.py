@@ -8,4 +8,4 @@ for i in range(1, 5):
 print(lista)
 
 #Se imprime una línea de prueba:
-print("Prueba de modificación desde GitHub")
+print("\nPrueba de modificación desde GitHub")
